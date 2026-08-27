@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31528215/README.md)
+[Uploading README.md…]()
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 </div>
@@ -38,10 +38,10 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 
 ## 🚀 Projects
 
-### 🟡 [Baton](https://github.com/team-tktk)
+### 📦 [Baton](https://github.com/team-tktk)
 기업 구성원의 업무 인수인계를 AI가 자동으로 분석·정리해주는 B2B 서비스
 
-<img src="https://img.shields.io/badge/Spring%20Boot-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Java-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20AI%20%28OpenAI%29-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL%20%28pgvector%29-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-12172B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Java-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20AI%20%28OpenAI%29-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL%20%28pgvector%29-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-6B7280?style=flat-square"/>
 
 - 문서 업로드 및 AI 분석 파이프라인 구현
 - RAG 기반 채팅 질의응답 기능 구현
@@ -50,20 +50,20 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 
 <br>
 
-### 🟢 [V_O](https://github.com/V-O-dev)
+### 📦 [V_O](https://github.com/V-O-dev)
 질문이 주어지면 10초 영상으로 답변을 남기며 서로의 일상을 공유하는 소셜 서비스
 
-<img src="https://img.shields.io/badge/Java%2021-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Boot-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Security%20%28JWT%29-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Nginx-12172B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java%2021-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Boot-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Security%20%28JWT%29-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Nginx-6B7280?style=flat-square"/>
 
 - 질문 추천 알고리즘 및 영상 업로드 API 구현
 - AWS 인프라 구축·운영 (EC2 배포, S3 연동, IAM 권한 관리)
 
 <br>
 
-### 🟣 [WithME](https://github.com/WithME-Since2026)
+### 📦 [WithME](https://github.com/WithME-Since2026)
 그룹 운영자가 앱 설치 없이 일정 확정·변경·출석 확인을 한 곳에서 끝낼 수 있는 일정 조율 도구
 
-<img src="https://img.shields.io/badge/Java-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Boot-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Security%20%28JWT%29-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Flyway-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Swagger-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-12172B?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-12172B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Boot-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Security%20%28JWT%29-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Flyway-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Swagger-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-6B7280?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-6B7280?style=flat-square"/>
 <img src="https://img.shields.io/badge/React%20Native%20%28Expo%29-0064FF?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-0064FF?style=flat-square"/> <img src="https://img.shields.io/badge/React%20Navigation-0064FF?style=flat-square"/> <img src="https://img.shields.io/badge/TanStack%20Query-0064FF?style=flat-square"/> <img src="https://img.shields.io/badge/Zustand-0064FF?style=flat-square"/>
 
 - 프론트엔드·백엔드·디자인 전반 참여
