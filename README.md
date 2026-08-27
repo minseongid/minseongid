@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 </div>
