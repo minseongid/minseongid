@@ -1,7 +1,5 @@
-[README.md](https://github.com/user-attachments/files/31527444/README.md)
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
-</div>
+[README.md](https://github.com/user-attachments/files/31527681/README.md)
+<img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 
 <br>
 
@@ -42,7 +40,7 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 ### [Baton](https://github.com/team-tktk)
 기업 구성원의 업무 인수인계를 AI가 자동으로 분석·정리해주는 B2B 서비스
 
-`Spring Boot` `Java` `Spring AI (OpenAI)` `PostgreSQL (pgvector)` `AWS (EC2 / S3 / CloudFront)` `GitHub Actions`
+`Spring Boot` `Java` `Spring AI (OpenAI)` `PostgreSQL (pgvector)` `AWS` `GitHub Actions`
 
 - 문서 업로드 및 AI 분석 파이프라인 구현
 - RAG 기반 채팅 질의응답 기능 구현
@@ -54,7 +52,7 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 ### [V_O](https://github.com/V-O-dev)
 질문이 주어지면 10초 영상으로 답변을 남기며 서로의 일상을 공유하는 소셜 서비스
 
-`Java 21` `Spring Boot` `Spring Data JPA` `Spring Security (JWT)` `PostgreSQL` `Redis` `AWS (EC2 / S3 / IAM)` `Docker` `GitHub Actions` `Nginx`
+`Java 21` `Spring Boot` `Spring Data JPA` `Spring Security (JWT)` `PostgreSQL` `Redis` `AWS` `Docker` `GitHub Actions` `Nginx`
 
 - 질문 추천 알고리즘 및 영상 업로드 API 구현
 - AWS 인프라 구축·운영 (EC2 배포, S3 연동, IAM 권한 관리)
@@ -64,7 +62,7 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 ### [WithME](https://github.com/WithME-Since2026)
 그룹 운영자가 앱 설치 없이 일정 확정·변경·출석 확인을 한 곳에서 끝낼 수 있는 일정 조율 도구
 
-`Java` `Spring Boot` `Spring Security (JWT)` `Spring Data JPA` `PostgreSQL` `Redis` `Flyway` `Swagger` `Docker` `GitHub Actions` `AWS (EC2 / RDS)`
+`Java` `Spring Boot` `Spring Security (JWT)` `Spring Data JPA` `PostgreSQL` `Redis` `Flyway` `Swagger` `Docker` `GitHub Actions` `AWS`
 `React Native (Expo)` `TypeScript` `React Navigation` `TanStack Query` `Zustand`
 
 - 프론트엔드·백엔드·디자인 전반 참여
