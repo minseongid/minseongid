@@ -18,7 +18,12 @@
 
   <rect width="1200" height="380" fill="#FFFFFF"/>
 
-  <text x="1000" y="276" font-family="P-SemiBold" font-size="300" font-weight="700" fill="#0064FF" opacity="0.055" text-anchor="middle">{ }</text>
+  <g transform="translate(852.197 276) scale(0.146484 -0.146484)" fill="#0064FF" opacity="0.055">
+    <path d="M56 670V434C218 434 272 372 272 224V-18C272 -336 436 -408 720 -408V-212C554 -212 514 -144 514 2V296C514 406 470 499 280 538V566C470 603 514 697 514 808V1100C514 1248 554 1314 720 1314V1510C436 1510 272 1438 272 1120V878C272 730 218 670 56 670Z"/>
+  </g>
+  <g transform="translate(1035.596 276) scale(0.146484 -0.146484)" fill="#0064FF" opacity="0.055">
+    <path d="M710 434V670C548 670 494 730 494 878V1120C494 1438 330 1510 46 1510V1314C212 1314 252 1248 252 1100V808C252 697 296 603 486 566V538C296 499 252 406 252 296V2C252 -144 212 -212 46 -212V-408C330 -408 494 -336 494 -18V224C494 372 548 434 710 434Z"/>
+  </g>
 
   <text x="92" y="150" font-family="P-ExtraBold" font-size="84" letter-spacing="-1" fill="#0B0F19">김민성</text>
   <text x="93" y="188" font-family="P-SemiBold" font-size="30" letter-spacing="3" fill="#0064FF">KIM MINSEONG</text>
