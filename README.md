@@ -43,12 +43,10 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 
 <img src="https://img.shields.io/badge/Spring%20Boot-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Java-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20AI%20%28OpenAI%29-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL%20%28pgvector%29-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-D6D9DE?style=flat-square"/>
 
-- 문서 업로드 및 AI 분석 파이프라인 구현
 - RAG 기반 채팅 질의응답 기능 구현
 - 인수인계 초안·확인질문 자동 생성 기능 구현
 - 배포 자동화(CI/CD) 구축
-
-<br>
+- AWS 인프라 구축·운영 (EC2 배포, S3 연동)
 
 ### 📦 [V_O](https://github.com/V-O-dev)
 질문이 주어지면 10초 영상으로 답변을 남기며 서로의 일상을 공유하는 소셜 서비스
@@ -56,7 +54,7 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 <img src="https://img.shields.io/badge/Java%2021-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Boot-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Security%20%28JWT%29-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Nginx-D6D9DE?style=flat-square"/>
 
 - 질문 추천 알고리즘 및 영상 업로드 API 구현
-- AWS 인프라 구축·운영 (EC2 배포, S3 연동, IAM 권한 관리)
+- AWS 인프라 구축·운영 (EC2 배포, S3 연동)
 
 ### 📦 [WithME](https://github.com/WithME-Since2026)
 그룹 운영자가 앱 설치 없이 일정 확정·변경·출석 확인을 한 곳에서 끝낼 수 있는 일정 조율 도구
