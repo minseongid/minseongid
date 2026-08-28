@@ -1,17 +1,11 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 </div>
-<p align="center">
-  <a href="https://github.com/minseongid">
-    <img src="https://img.shields.io/badge/minseongid-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/minseongid">
-    <img src="https://img.shields.io/badge/Minseong%20Kim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:minseong.info@gmail.com">
-    <img src="https://img.shields.io/badge/minseong.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
+</div>
+
+<p align="center"><a href="https://github.com/minseongid"><img src="https://img.shields.io/badge/minseongid-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/minseongid"><img src="https://img.shields.io/badge/Minseong%20Kim-0A66C2?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAP1BMVEUAAAD///////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwlEnmAAAAEHRSTlMACvyYqSpOcswAAAAAAAAAhuIIBQAAAStJREFUeNrt19tuwyAMAFBfsOH/v3ghQGJIJjCb9jDVldI07YmRuYQCURR0hkQiIIWNUIIIuBGF+RNmlF9+CB1cT97BUy1SC48jCsJaww1EkEBEQZbkDY9OpRJL0kAIFSb0wONA5EhpoFxQ/wQexUkNrgwDWxx1JOz7UdOyG0YOalR0j5w21rC91Xk3nL/PjtdsiM+zvqlvSUpfKTNHFXNjW1WuVeV85zaOuI79M8wEeIPBwnD10hnxrscEcuduOYWJhmg1mMFHMGzC5MiYmE2Lpf58CpOUFb+fdAtQoKz4fV3nkOtsHS9MobZiJCeUVv7ghPiBH/h/YLBQvoXhAfM6nyOeGesHvmCsF8al4wd7ue6h83y0DV/D7+wefVD2Nrqyv7Xe3szv/n34AsgqC3JTcpjrAAAAAElFTkSuQmCC&logoColor=white"/></a> <a href="mailto:minseong.info@gmail.com"><img src="https://img.shields.io/badge/minseong.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a></p>
 
 ## 🙋 About
 
