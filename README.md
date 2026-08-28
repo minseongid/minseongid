@@ -1,11 +1,8 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 </div>
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
-</div>
 
-<p align="center"><a href="https://github.com/minseongid"><img src="https://img.shields.io/badge/minseongid-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/minseongid"><img src="https://img.shields.io/badge/Minseong%20Kim-0A66C2?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAP1BMVEUAAAD///////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwlEnmAAAAEHRSTlMACvyYqSpOcswAAAAAAAAAhuIIBQAAAStJREFUeNrt19tuwyAMAFBfsOH/v3ghQGJIJjCb9jDVldI07YmRuYQCURR0hkQiIIWNUIIIuBGF+RNmlF9+CB1cT97BUy1SC48jCsJaww1EkEBEQZbkDY9OpRJL0kAIFSb0wONA5EhpoFxQ/wQexUkNrgwDWxx1JOz7UdOyG0YOalR0j5w21rC91Xk3nL/PjtdsiM+zvqlvSUpfKTNHFXNjW1WuVeV85zaOuI79M8wEeIPBwnD10hnxrscEcuduOYWJhmg1mMFHMGzC5MiYmE2Lpf58CpOUFb+fdAtQoKz4fV3nkOtsHS9MobZiJCeUVv7ghPiBH/h/YLBQvoXhAfM6nyOeGesHvmCsF8al4wd7ue6h83y0DV/D7+wefVD2Nrqyv7Xe3szv/n34AsgqC3JTcpjrAAAAAElFTkSuQmCC&logoColor=white"/></a> <a href="mailto:minseong.info@gmail.com"><img src="https://img.shields.io/badge/minseong.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a></p>
+<p align="center"><a href="https://github.com/minseongid"><img src="https://img.shields.io/badge/minseongid-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/minseongid"><img src="https://img.shields.io/badge/Minseong%20Kim-0A66C2?style=flat-square&logo=data:image/png;base64,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&logoColor=white"/></a> <a href="mailto:minseong.info@gmail.com"><img src="https://img.shields.io/badge/minseong.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a></p>
 
 ## 🙋 About
 
@@ -61,8 +58,6 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 - 질문 추천 알고리즘 및 영상 업로드 API 구현
 - AWS 인프라 구축·운영 (EC2 배포, S3 연동, IAM 권한 관리)
 
-<br>
-
 ### 📦 [WithME](https://github.com/WithME-Since2026)
 그룹 운영자가 앱 설치 없이 일정 확정·변경·출석 확인을 한 곳에서 끝낼 수 있는 일정 조율 도구
 
@@ -71,8 +66,6 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 
 - 프론트엔드·백엔드·디자인 전반 참여
 - 백엔드: 모임, 유저 마이페이지, Todo/카테고리 API 설계 및 구현
-
-<br>
 
 ## 🏆 Activities & Awards
 
