@@ -1,12 +1,15 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 </div>
-<p align="center">
-  <a href="mailto:minseong.info@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<p align="left">
+  <a href="https://github.com/minseongid">
+    <img src="https://img.shields.io/badge/GitHub-github.com%2Fminseongid-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/minseongid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fminseongid-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:minseong.info@gmail.com">
+    <img src="https://img.shields.io/badge/Email-minseong.info%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
