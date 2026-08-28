@@ -43,6 +43,7 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 
 <img src="https://img.shields.io/badge/Spring%20Boot-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Java-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20AI%20%28OpenAI%29-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL%20%28pgvector%29-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-D6D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub%20Actions-D6D9DE?style=flat-square"/>
 
+- 문서 업로드 및 AI 분석 파이프라인 구현
 - RAG 기반 채팅 질의응답 기능 구현
 - 인수인계 초안·확인질문 자동 생성 기능 구현
 - 배포 자동화(CI/CD) 구축
@@ -64,6 +65,8 @@ Hi! I'm a backend developer who enjoys learning new things and building them han
 
 - 프론트엔드·백엔드·디자인 전반 참여
 - 백엔드: 모임, 유저 마이페이지, Todo/카테고리 API 설계 및 구현
+
+<br>
 
 ## 🏆 Activities & Awards
 
