@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31564942/README.md)
 <div align="center">
   <img src="https://raw.githubusercontent.com/minseongid/minseongid/main/assets/banner.svg" width="100%" alt="김민성 Kim Minseong"/>
 </div>
