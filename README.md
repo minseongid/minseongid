@@ -96,5 +96,5 @@ Hi! I'm a software developer who enjoys learning new things and building them ha
 ## 🚩 Activities
 
 - **University Makeus Challenge (UMC) 11기 운영진** — 대학생 IT 연합 사이드 프로젝트 동아리 (2026.09 ~ 현재)
-- **University Makeus Challenge (UMC) Spring Boot 10기** — 대학생 IT 연합 사이드 프로젝트 동아리 (2026.03 ~ 2026.08)
+- **University Makeus Challenge (UMC) 10기 Spring Boot** — 대학생 IT 연합 사이드 프로젝트 동아리 (2026.03 ~ 2026.08)
 - **Soongsil Computing Contest Club (SCCC)** — 숭실대학교 컴퓨터학부 소모임 (2024.09 ~ 현재)
